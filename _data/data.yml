@@ -85,7 +85,7 @@ experiences:
       time: 2018 - 2019
       company: Wakil Direktur Jenderal Relasi Lembaga Kementerian Advokasi Kebijakan Kampus
       
-    - role: TELEMOTION
+    - role: Panitia TELEMOTION
       time: November 2018
       company: Ketua Divisi Publikasi & Dokumentasi
       
@@ -104,6 +104,10 @@ projects:
       - title: Kopi Sore Bersama Rektorat
         link: "#"
         tagline: "2nd November, 2018"
+        
+      - title: TELEMOTION
+        link: "#"
+        tagline: "22nd November, 2018"
 
 publications:
     title: Publications
