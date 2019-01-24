@@ -14,18 +14,15 @@ sidebar:
     # Sidebar links
     email: wina.damaswara@gmail.com
     phone: 08982739038
-    website: Bandung, Indonesia
-    github: putriandrawina
+    github: github.com/putriandrawina
     twitter: '@winadamaswara'
+    website: Bandung, Indonesia
 
     languages:
-      - idiom: English
+      - idiom: Indonesia
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
+      - idiom: English
         level: Professional
 
     interests:
@@ -50,9 +47,9 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Institut Teknologi Bandung
+      university: Telecommunication Engineering Undergraduate
+      time: 2016 - present
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -63,9 +60,9 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: SMA Santa Ursula Jakarta
+      university: High School Graduate
+      time: 2013 - 2016
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
