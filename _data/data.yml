@@ -171,16 +171,16 @@ skills:
         level: 95%
 
       - name: Strong Work Ethic
-        level: 95%
-
-      - name: Time Management
         level: 90%
 
-      - name: Self-motivation
+      - name: Time Management
         level: 85%
 
+      - name: Self-motivation
+        level: 80%
+
       - name: Critical Thinking
-        level: 70%
+        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
