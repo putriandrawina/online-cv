@@ -167,23 +167,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Communication
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Strong Work Ethic
+        level: 95%
+
+      - name: Time Management
+        level: 90%
+
+      - name: Self-motivation
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Critical Thinking
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
