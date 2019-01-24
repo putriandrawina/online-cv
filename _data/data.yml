@@ -73,13 +73,13 @@ education:
 
 experiences:
     - role: MWA-WM ITB
-      time: 2016 - 2018
-      company: Staff Relasi S1 Ganesha (2016-2017) 
-      |company: Staff Relasi TPB (2017-2018)
-      details: |
-          - Staff Relasi S1 Ganesha (2016-2017)
-          - Staff Relasi TPB (2017-2018)
-
+      time: 2016 - 2017
+      company: Staff Relasi S1 Ganesha 
+    
+    - role: MWA-WM ITB
+      time: 2017 - 2018
+      company: Staff Relasi TPB
+      
     - role: AIESEC in Kyiv
       time: July - August 2017
       company: Exchange Participant
