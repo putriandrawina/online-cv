@@ -39,8 +39,8 @@ career-profile:
     title: Profile
     summary: 
       An innovative, detail-oriented, and highly motivated individual with diverse experience. 
-      |Eager to learn new things and grow. 
-      |Excellent communicator, adaptive learner, and trustworthy team player. 
+      >Eager to learn new things and grow. 
+      >Excellent communicator, adaptive learner, and trustworthy team player. 
 
 education:
     - degree: Institut Teknologi Bandung
