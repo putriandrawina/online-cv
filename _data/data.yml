@@ -89,7 +89,7 @@ experiences:
       company: Wakil Direktur Jenderal Relasi Lembaga Kementerian Advokasi Kebijakan Kampus
       
     - role: Panitia Telemotion
-      time: November 2018
+      time: 2018
       company: Ketua Divisi Publikasi & Dokumentasi
       
     - role: ILMUN
@@ -100,8 +100,12 @@ projects:
     title: Projects
  
     assignments:
-      - title: Bincang Dekat
+      - title: Tanya Nyata TPB
         link: "#hook"
+        tagline: "BPUDL dan Restrukturasi ITB - Kajian Konsep Multikampus dan Progress Kajian TPB Pindah ke Jatinangor - September 28, 2018"
+
+      - title: Bincang Dekat
+        link: "#"
         tagline: "Isu Strategis Kampus - February 10, 2018"
 
       - title: Kopi Sore Bersama Rektorat
